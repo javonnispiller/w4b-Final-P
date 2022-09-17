@@ -21,7 +21,7 @@ h2, p{
 }
 h3{
     color: #426696;
-    font-weight: 400;
+    font-weight: 550;
     opacity:0.8;
     text-align:auto;
     top:0;
@@ -30,7 +30,9 @@ h3{
 }
 h3, p{
     font-size: 10;
-    align-items: center;
+    align-items: right;
+    margin:  0 5;
+    padding: 20;
 }
 img{
     border-radius: 50%;  
