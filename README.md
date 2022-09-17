@@ -1,1 +1,2 @@
 # w4b-Final-P
+Hello please enjoy what is complete with my final project. I had so many ideas but was limited to resources. For instance, I really wanted to make a movie blog! But I settled on a blog about me. Welp. 
